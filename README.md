@@ -1,6 +1,6 @@
 # React project starter
 
-A react boilerplate to help get up and running with personal apps/projects. Boilerplate includes:
+A react boilerplate to help get up and running quickly with personal apps/projects. Boilerplate includes:
 
 - Typescript
 - [Styled components - with themeing](https://www.npmjs.com/package/styled-components)
